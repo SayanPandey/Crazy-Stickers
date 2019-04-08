@@ -115,26 +115,98 @@
       ]
     },
     {
-      "identifier": "2",
+          "identifier": "2",
+          "name": "CrazyStickers",
+          "publisher": "Sayan Pandey",
+          "tray_image_file": "logo.webp",
+          "publisher_email":"",
+          "publisher_website": "",
+          "privacy_policy_website": "",
+          "license_agreement_website": "",
+          "stickers": [
+            {
+              "image_file": "logo.webp",
+              "emojis": ["☕","🙂"]
+            },
+            {
+              "image_file": "Logo3.webp",
+              "emojis": ["😄","😀"]
+            },
+            {
+              "image_file": "logo4.webp",
+              "emojis": ["😆","😂"]
+            }
+      ]
+    },
+    {
+      "identifier": "3",
       "name": "CrazyStickers",
       "publisher": "Sayan Pandey",
-      "tray_image_file": "logo.webp",
+      "tray_image_file": "1.webp",
       "publisher_email":"",
       "publisher_website": "",
       "privacy_policy_website": "",
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "logo.webp",
+          "image_file": "1.webp",
           "emojis": ["☕","🙂"]
         },
         {
-          "image_file": "Logo3.webp",
+          "image_file": "1.webp",
           "emojis": ["😄","😀"]
         },
         {
-          "image_file": "logo4.webp",
+          "image_file": "3.webp",
           "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵"]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "CrazyStickers",
+      "publisher": "Sayan Pandey",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": ["😆","😂"]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": ["😘","🍪"]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": ["🤔","😐"]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": ["😱","😵"]
         }
       ]
     }
